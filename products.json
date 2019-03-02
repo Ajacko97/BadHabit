@@ -1,34 +1,39 @@
 {
 	"products" : [
 		{
-			"name" : "Awesome T-shirt",
+			"name" : "Rebuild Bad Habit 1",
 			"price" : "€ 35.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "White" },
+				{ "OneOfAKind" : true }
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is a very awesome grey T-shirt"
-		},
-		{
-			"name" : "Cool T-shirt",
-			"price" : "€ 15.99",
-			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "Blue,Red" },
-			    { "OneOfAKind" : true }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
-			"description" : "This is a really cool blue T-shirt",
+			"description" : "Rebuild Bad Habit ...",
 			"soldOut" : false
 		},
 		{
-			"name" : "Fun T-shirt",
-			"price" : "€ 15.99",
+			"name" : "Rebuild Bad Habit 2",
+			"price" : "€ 35.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "White" },
+			    { "OneOfAKind" : true }
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is another fun grey T-shirt"
+			"description" : "Rebuild Bad Habit ...",
+			"soldOut" : false
+		},
+		{
+			"name" : "Rebuild Bad Habit 3",
+			"price" : "€ 35.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "White" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "Rebuild Bad Habit ..."
 		}
 	]
 }
