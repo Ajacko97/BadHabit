@@ -19,11 +19,11 @@ $(function() {
 	    // how simpleCart should checkout, see the checkout reference for more info
 	    checkout: {
 	        type: "PayPal" ,
-	        email: "you@yours.com"
+	        email: "jace0244@edu.easj.dk"
 	    },
 
 	    // set the currency, see the currency reference for more info
-	    currency: "EUR",
+	    currency: "DKK",
 
 	    // collection of arbitrary data you may want to store with the cart,
 	    // such as customer info

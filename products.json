@@ -2,11 +2,9 @@
 	"products" : [
 		{
 			"name" : "Rebuild Bad Habit 1",
-			"price" : "€ 35.99",
+			"price" : "€ 1.00",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "White" },
-				{ "OneOfAKind" : true }
+				{ "Size" : "S,M,L,XL" }
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
 			"description" : "Rebuild Bad Habit ...",
@@ -16,9 +14,7 @@
 			"name" : "Rebuild Bad Habit 2",
 			"price" : "€ 35.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "White" },
-			    { "OneOfAKind" : true }
+				{ "Size" : "S,M,L,XL" }
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
 			"description" : "Rebuild Bad Habit ...",
@@ -28,9 +24,7 @@
 			"name" : "Rebuild Bad Habit 3",
 			"price" : "€ 35.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "White" },
-			    { "OneOfAKind" : true }
+				{ "Size" : "S,M,L,XL" }
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
 			"description" : "Rebuild Bad Habit ..."
