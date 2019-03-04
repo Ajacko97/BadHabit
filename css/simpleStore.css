@@ -137,6 +137,10 @@ a.hover {
     text-align: center;
 }
 
+.item-remove, .item-decrement, .item-increment {
+	font-weight: 400;
+}
+
 /* Cart */
 
 .cart_info {

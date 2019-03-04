@@ -1,8 +1,8 @@
 {
 	"products" : [
 		{
-			"name" : "T-shirt Bad Habits no. 1",
-			"price" : "30",
+			"name" : "T-shirt Bad Habits No. 1",
+			"price" : "25",
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
@@ -11,8 +11,8 @@
 			"soldOut" : false
 		},
 		{
-			"name" : "T-shirt Bad Habits no. 2",
-			"price" : "30",
+			"name" : "T-shirt Bad Habits No. 2",
+			"price" : "25",
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
@@ -21,8 +21,8 @@
 			"soldOut" : false
 		},
 		{
-			"name" : "T-shirt Bad Habits no. 3",
-			"price" : "30",
+			"name" : "T-shirt Bad Habits No. 3",
+			"price" : "25",
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
@@ -30,8 +30,8 @@
 			"description" : "Rebuild Bad Habit ..."
 		},
 		{
-			"name" : "T-shirt Bad Habits no. 4",
-			"price" : "30",
+			"name" : "T-shirt Bad Habits No. 4",
+			"price" : "25",
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
@@ -39,8 +39,8 @@
 			"description" : "Rebuild Bad Habit ..."
 		},
 		{
-			"name" : "T-shirt Bad Habits no. 5",
-			"price" : "30",
+			"name" : "T-shirt Bad Habits No. 5",
+			"price" : "25",
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
@@ -48,8 +48,8 @@
 			"description" : "Rebuild Bad Habit ..."
 		},
 		{
-			"name" : "T-shirt Bad Habits no. 6",
-			"price" : "30",
+			"name" : "T-shirt Bad Habits No. 6",
+			"price" : "25",
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
