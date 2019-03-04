@@ -5,9 +5,9 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>Bad Habit</title>
-    <meta name="description" content="A clean, responsive storefront boilerplate with no database or backend">
-    <meta name="author" content="">
+    <title>Bad Habits - Webshop</title>
+    <meta name="description" content="Bad Habits - Webshop">
+    <meta name="author" content="Bad Habits">
 
     <!-- Mobile Specific Metas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -33,7 +33,7 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <div class="container simpleStore">
         <div class="row">
-            <a class="brand" href="#"></a>
+            <a class="logo" href="index.html"><img src="images/logo.png" alt="logo"/></a>
             <a class="button button-primary u-pull-right simpleStore_viewCart">
                 <i class="fa fa-shopping-cart"></i> Cart <span class="simpleCart_total"></span>
             </a>
@@ -53,6 +53,7 @@
                 <div class="row">
                     <h5 class="item_name"></h5>
                     <div class="simpleStore_getDetail_container">
+						<span class="euro">€</span>
                         <span class="item_price"></span>
                     </div>
                     <div class="simpleStore_getDetail_container">
@@ -77,10 +78,13 @@
                     <h5 class="item_name"></h5>
 
                     <p class="item_description"></p>
+					
+					<div class="price">
+					<span class="euro">€&nbsp;</span>
                     <span class="item_price"></span>
 					
-					<p>(shipping included in price - 2 to 14 days depending on location)</p>
-
+					<p>&nbsp;(shipping included in price - 2 to 10 working days depending on location)</p>
+					</div>
                     <div class="qty">
                         <label>QTY</label>
                         <input type="number" value="1" min="1" step="1" class="item_Quantity">
@@ -97,7 +101,7 @@
     <!-- Cart View -->
     <script id="cart-template" type="x-template">
         <div class="simpleStore_cart">
-            <h2>Cart</h2>
+            <h5><img src="images/favicon.png" width="16" height="16" alt="cart"/><b>&nbsp;CART</b></h5>
             <a href="#" class="close">&times;</a>
 
             <div class="row">
@@ -156,16 +160,5 @@
 <script src="js/simpleStore.js"></script>
 
 <script src="js/config.js"></script>
-	
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135464185-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-135464185-1');
-</script>
-
 
 </html>

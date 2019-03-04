@@ -39,7 +39,7 @@ $(function() {
 	    ],
 
 	    // custom function to add shipping cost
-	    shippingCustom: 0,
+	    shippingCustom: null,
 
 	    // flat rate shipping option
 	    shippingFlatRate: 0,
@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "https://i.imgur.com/L8URjE9.png",
+		brand : "Bad Habits - Webshop",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,

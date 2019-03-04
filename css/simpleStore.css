@@ -22,18 +22,18 @@ a.hover {
     margin-top: 20px;
 }
 
-.brand {
+.logo {
     display: block;
     float: left;
     text-decoration: none;
     color: #000;
 }
 
-.brand:hover {
-    color: #777;
+.logo:hover {
+    opacity: 0.8;
 }
 
-.brand img {
+.logo img {
 	max-height: 100px;
 }
 
@@ -82,10 +82,21 @@ a.hover {
     width: 50px;
 }
 
+.price {
+	display: flex;
+	line-height: 22px;
+}
+
 .item_price {
     font-weight: 700;
     font-size: 20px;
     line-height: 22px;
+}
+
+.euro {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 22px;
 }
 
 .item_description {
