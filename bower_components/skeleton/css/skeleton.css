@@ -208,8 +208,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: black;
-  background-color: #E4E4E4;
-  border-color: #E4E4E4;
+  background-color: white;
+  border-color: white;
   border: 1px solid black;}
 .button.button-primary:hover,
 button.button-primary:hover,
@@ -221,7 +221,7 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-  color: #FFF;
+  color: white;
   background-color: black;
   border-color: black; }
 
@@ -239,7 +239,7 @@ textarea,
 select {
   height: 38px;
   padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
-  background-color: #fff;
+  background-color: white;
   border: 1px solid #D1D1D1;
   border-radius: 4px;
   box-shadow: none;
