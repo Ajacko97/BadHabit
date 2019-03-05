@@ -71,7 +71,7 @@ a.hover {
 }
 
 .item_thumb, .detail_thumb {
-    height: 150px;
+    height: 250px;
     display: block;
     margin: 0 auto;
     padding-bottom: 10px;
@@ -80,6 +80,10 @@ a.hover {
 .item_Quantity {
     display: inline-block;
     width: 50px;
+}
+
+.four {
+	display: flex;
 }
 
 .price {

@@ -6,7 +6,7 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"image" : "https://i.imgur.com/IGYgZkz.jpg",
 			"description" : "Rebuild Bad Habit ...",
 			"soldOut" : false
 		},
@@ -16,7 +16,7 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"image" : "https://i.imgur.com/cHooFTy.jpg",
 			"description" : "Rebuild Bad Habit ...",
 			"soldOut" : false
 		},
@@ -26,34 +26,7 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "Rebuild Bad Habit ..."
-		},
-		{
-			"name" : "T-shirt Bad Habits No. 4",
-			"price" : "25",
-			"options" : [
-				{ "Size" : "S,M,L,XL" }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "Rebuild Bad Habit ..."
-		},
-		{
-			"name" : "T-shirt Bad Habits No. 5",
-			"price" : "25",
-			"options" : [
-				{ "Size" : "S,M,L,XL" }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "Rebuild Bad Habit ..."
-		},
-		{
-			"name" : "T-shirt Bad Habits No. 6",
-			"price" : "25",
-			"options" : [
-				{ "Size" : "S,M,L,XL" }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"image" : "https://i.imgur.com/yj9ntHJ.jpg",
 			"description" : "Rebuild Bad Habit ..."
 		}
 	]
