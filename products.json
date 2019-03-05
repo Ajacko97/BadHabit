@@ -18,6 +18,7 @@
 				{ "Size" : "S,M,L,XL" }
 			],
 			"image" : "https://i.imgur.com/cHooFTy.jpg",
+			"zoomimg" : "https://i.imgur.com/cHooFTy.jpg",
 			"description" : "Rebuild Bad Habit ...",
 			"soldOut" : false
 		},
@@ -28,7 +29,9 @@
 				{ "Size" : "S,M,L,XL" }
 			],
 			"image" : "https://i.imgur.com/yj9ntHJ.jpg",
-			"description" : "Rebuild Bad Habit ..."
+			"zoomimg" : "https://i.imgur.com/yj9ntHJ.jpg",
+			"description" : "Rebuild Bad Habit ...",
+			"soldOut" : false
 		}
 	]
 }
