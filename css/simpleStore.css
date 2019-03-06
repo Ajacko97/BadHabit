@@ -84,8 +84,6 @@ a.item_thumb h6 {
 
 /* icon zoom */
 a.item_thumb:hover {
-	display: block;
-	height: 250px;
 	opacity: 0.7;
 }
 
