@@ -71,7 +71,7 @@ a.hover {
 }
 /* t-shirt image */
 .item_thumb, .detail_thumb {
-    height: 250px;
+    height: 225px;
     display: block;
     margin: 0 auto;
     padding-bottom: 10px;
@@ -338,6 +338,19 @@ p.notify_text {
 }
 
 @media (max-width: 920px) {
+	.simpleCart_shelfItem .item_thumb {
+		display: block;
+        width: 100%;
+		height: auto;
+	}
+	
+	.simpleStore_detailView .item_thumb {
+        margin-bottom: 10px;
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+	
     .simpleStore_getDetail_container {
         width: 100%;
     }
