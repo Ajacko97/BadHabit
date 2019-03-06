@@ -69,13 +69,15 @@ a.hover {
     line-height: 40px;
     margin-right: 10px;
 }
-
+/* t-shirt image */
 .item_thumb, .detail_thumb {
     height: 250px;
     display: block;
     margin: 0 auto;
     padding-bottom: 10px;
+	text-align: center;
 }
+
 /* icon zoom */
 .item_thumb:hover {
 	background: url("../images/zoom.png") no-repeat 0 0;
