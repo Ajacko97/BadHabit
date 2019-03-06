@@ -6,8 +6,8 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "https://i.imgur.com/IGYgZkz.jpg",
-			"zoomimg" : "http://ajacko.com/badhabits/images/zoom.png",
+			"image" : "http://ajacko.com/badhabits/images/shirt1.png",
+			"zoomimg" : "http://ajacko.com/badhabits/images/tsno1.jpg",
 			"description" : "Rebuild Bad Habit ...",
 			"soldOut" : false
 		},
@@ -17,8 +17,8 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "https://i.imgur.com/cHooFTy.jpg",
-			"zoomimg" : "https://i.imgur.com/HRz4QFx.jpg",
+			"image" : "http://ajacko.com/badhabits/images/shirt2.1.png",
+			"zoomimg" : "http://ajacko.com/badhabits/images/tsno2.1.jpg",
 			"description" : "Rebuild Bad Habit ...",
 			"soldOut" : false
 		},
@@ -28,8 +28,8 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "https://i.imgur.com/yj9ntHJ.jpg",
-			"zoomimg" : "https://i.imgur.com/OsBbdHS.jpg",
+			"image" : "http://ajacko.com/badhabits/images/shirt3.png",
+			"zoomimg" : "http://ajacko.com/badhabits/images/tsno3.jpg",
 			"description" : "Rebuild Bad Habit ...",
 			"soldOut" : false
 		}
