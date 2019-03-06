@@ -78,10 +78,19 @@ a.hover {
 	text-align: center;
 }
 
+a.item_thumb h6 {
+	color: #000;
+}
+
 /* icon zoom */
-.item_thumb:hover {
-	background: url("../images/zoom.png") no-repeat 0 0;
-	opacity: 0.9;
+a.item_thumb:hover {
+	display: block;
+	height: 250px;
+	opacity: 0.7;
+}
+
+a.item_thumb h6:hover {
+	color: #CDCDCD;
 }
 
 .item_Quantity {
@@ -190,7 +199,7 @@ a.hover {
 }
 
 .simpleStore_detailView.simpleCart_shelfItem {
-    padding: 26px 18px 8px 18px;
+    padding: 20px 20px 30px 20px;
 }
 
 .simpleStore_detailView .item_add {
