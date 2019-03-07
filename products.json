@@ -4,7 +4,7 @@
 			"name" : "T-shirt Bad Habits No. 1",
 			"price" : "18",
 			"options" : [
-				{ "Size" : "S,M,L,XL" }
+				{ "Size" : "Small,Medium,Large" }
 			],
 			"image" : "http://ajacko.com/badhabits/images/shirt1.png",
 			"zoomimg" : "http://ajacko.com/badhabits/images/tsno1.jpg",
@@ -15,7 +15,7 @@
 			"name" : "T-shirt Bad Habits No. 2",
 			"price" : "18",
 			"options" : [
-				{ "Size" : "S,M,L,XL" }
+				{ "Size" : "Small,Medium,Large" }
 			],
 			"image" : "http://ajacko.com/badhabits/images/shirt2.1.png",
 			"zoomimg" : "http://ajacko.com/badhabits/images/tsno2.1.jpg",
@@ -26,7 +26,7 @@
 			"name" : "T-shirt Bad Habits No. 3",
 			"price" : "18",
 			"options" : [
-				{ "Size" : "S,M,L,XL" }
+				{ "Size" : "Small,Medium,Large" }
 			],
 			"image" : "http://ajacko.com/badhabits/images/shirt3.png",
 			"zoomimg" : "http://ajacko.com/badhabits/images/tsno3.jpg",
